@@ -261,7 +261,7 @@ a.fb-icon,
     width: 30px;
     height: 33px;
     text-align: center;
-    background-image: url(/staugustineGit/assets/img/icon/social/facebook.png);
+    background-image: url(staugustineGit/assets/img/icon/social/facebook.png);
     background-repeat: no-repeat;
     background-size:30px 33px;
     font-size:15px;
@@ -284,7 +284,7 @@ a.insta-icon:hover,
         width: 30px;
         height: 33px;
         text-align: center;
-        background-image: url(/staugustineGit/assets/img/icon/social/instagram.png);
+        background-image: url(staugustineGit/assets/img/icon/social/instagram.png);
         background-repeat: no-repeat;
         background-size:30px 33px;
         font-size:15px;
@@ -307,7 +307,7 @@ a.insta-icon:hover,
         width: 30px;
         height: 33px;
         text-align: center;
-        background-image: url(/staugustineGit/assets/img/icon/social/twitter.png);
+        background-image: url(staugustineGit/assets/img/icon/social/twitter.png);
         background-repeat: no-repeat;
         background-size:30px 33px;
         font-size:15px;
@@ -331,7 +331,7 @@ a.insta-icon:hover,
         width: 30px;
         height: 33px;
         text-align: center;
-        background-image: url(/staugustineGit/assets/img/icon/social/youtube.png);
+        background-image: url(staugustineGit/assets/img/icon/social/youtube.png);
         background-repeat: no-repeat;
         background-size:30px 33px;
         font-size:15px;
