@@ -185,7 +185,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="index.php"><img src="/staugustineGit/assets/img/st/home-logo-wht.png" alt="sas" /></a>
+            <a class="navbar-brand" href="index.php"><img src="assets/img/st/home-logo-wht.png" alt="sas" /></a>
 
         </div>
 
