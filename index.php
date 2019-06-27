@@ -586,9 +586,6 @@
                         <p><a href="http://faithandfoundation.com/stories/earthday2018.html"><img src="assets/img/content/events/earth.JPG" alt="" ></a></p>
                     </div>
                     <div class="item">
-                        <p><a href="http://faithandfoundation.com/stories/retreat.html"><img src="assets/img/content/events/Retreat.JPG" alt="" ></a></p>
-                    </div>
-                    <div class="item">
                         <p><a href="http://faithandfoundation.com/stories/valentinetea.html"><img src="assets/img/content/events/tea.JPG" alt="" ></a></p>
                     </div>
                     <div class="item">
