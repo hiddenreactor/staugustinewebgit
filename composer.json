@@ -1,0 +1,14 @@
+{
+    "name": "vendor/name",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Philbert Yu",
+            "email": "philbertyu@yahoo.ca"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "~1.0"
+    }
+
+}
